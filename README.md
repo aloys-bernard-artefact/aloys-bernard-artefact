@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my professional Github 
+This is my professional Github.
 <!--
 **aloys-bernard-artefact/aloys-bernard-artefact** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
